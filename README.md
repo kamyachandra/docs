@@ -1,20 +1,25 @@
-### Centre for Digital Public Infrastructure 
-### [CDPI](https://cdpi.dev)
+# README
 
+#### Centre for Digital Public Infrastructure
 
-## Technical Notes
-* [Terminology](./notes/dpi/terminology.md)
+#### [CDPI](https://cdpi.dev)
+
+### Technical Notes
+
+* [Terminology](notes/data\_sharing/beneficiary\_registries.md)
 * DPI Thinking
-    * [Overview](./notes/dpi/overview.md)
-    * [Design Principle](./notes/dpi/design_principles.md)
+  * [Overview](notes/dpi/terminology.md)
+  * [Design Principle](notes/dpi/design\_principles.md)
 * Mapper
-    * [Overview](./notes/mapper/overview.md)
-    * [Policy Guidelines](./notes/mapper/policy_guidelines.md)
+  * [Overview](notes/mapper/overview.md)
+  * [Policy Guidelines](notes/mapper/policy\_guidelines.md)
 * Data Sharing
-    * [Overview](./notes/data_sharing/overview.md)
-    * [Beneficiary Registries](./notes/data_sharing/beneficiary_registries.md)
-    * <!-- * Civil Registry -->
-## Technical Specs
-* [Index](./specs/index.md)
+  * [Overview](broken-reference)
+  * [Beneficiary Registries](notes/dpi/overview.md)
+  *
+
+### Technical Specs
+
+* [Index](specs/index.md)
 * Payments
-    * [QR Code](./specs/payment/qr_code/qr_spec.md)
+  * [QR Code](specs/payment/qr\_code/qr\_spec.md)

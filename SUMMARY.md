@@ -10,7 +10,6 @@
   * [Face Auth](notes/identity/face\_auth.md)
 * [Mapper](notes/mapper/index.md)
 * [Data Sharing](technical-notes/data-sharing/README.md)
-  * [Overview](notes/data\_sharing/overview.md)
   * [Beneficiary Registries](notes/data\_sharing/beneficiary\_registries.md)
 
 ## Technical Specs
