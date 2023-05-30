@@ -13,6 +13,6 @@
 
 ## Technical Specs
 
-* [Specifications & Standards](specs/index.md)
+* [Specifications](technical-specs/specifications.md)
 * [Payments](technical-specs/payments/README.md)
   * [QR Code](technical-specs/payments/qr-code.md)

@@ -2,7 +2,7 @@
 description: Reference Links
 ---
 
-# Specifications & Standards
+# Specifications
 
 ## Overeview
 
@@ -29,11 +29,11 @@ Centre for Digital Public Infrastructure (CDPI) curates open standard and specif
 **Reference Specs/Implementations:**
 
 1. Sunbird VC issuance [docs](https://docs.sunbirdrc.dev/learn/readme) | [specs](https://github.com/Sunbird-RC/sunbird-rc-core/tree/main/api-documentation)
-2. eLocker app [docs](index.md) | \[specs] (tbd)
+2. eLocker app [docs](broken-reference) | \[specs] (tbd)
 
 ### Verifiable Credentials - Presentation
 
-1. W3C compliant presentation [standard](index.md)| Implementation [guide](https://www.w3.org/TR/vc-imp-guide/)
+1. W3C compliant presentation [standard](broken-reference)| Implementation [guide](https://www.w3.org/TR/vc-imp-guide/)
 
 #### Reference Specs/Implementations:
 
@@ -49,13 +49,13 @@ Centre for Digital Public Infrastructure (CDPI) curates open standard and specif
 
 #### Reference Implementations
 
-1. Batch payments: [Mojaloop](tbd/), [Mifos](tbd/)
-2. Beneficiary / Scheme Mgmt partners: [OpenG2P](tbd/), [OpenSPP](tbd/), [DIGIT](tbd/)
+1. Batch payments: [Mojaloop](../specs/tbd/), [Mifos](../specs/tbd/)
+2. Beneficiary / Scheme Mgmt partners: [OpenG2P](../specs/tbd/), [OpenSPP](../specs/tbd/), [DIGIT](../specs/tbd/)
 3. Cash in cash out: AePS [specs](https://www.npci.org.in/PDF/AePS/MicroATM\_Standards\_v1.5.1\_Clean.pdf?TSPD\_101\_R0=08f002952bab20008b7d8da5fd1e2eab2b05707bcf97d4d8a37e2e70559f1e5cf52cf371b2dd168808262911fb14300061acdcd788119a546d34e72dd804f44c2e3b50502dbe0deab71add6e66931a3c1c3f7d06c44de06e493ae71639d420a0) published by NPCI/IBA/UIDAI
 
 ### P2P / P2M Payments
 
-1. UPI [specs](tbd/)
+1. UPI [specs](../specs/tbd/)
 2. Open Banking [specs](https://standards.openbanking.org.uk/api-specifications/)
 
 ### Open Commerce
@@ -64,8 +64,8 @@ Centre for Digital Public Infrastructure (CDPI) curates open standard and specif
 
 ### Education
 
-1. Sunbird [specs](index.md)
-2. BeckN DSEP [specs](index.md)
+1. Sunbird [specs](broken-reference)
+2. BeckN DSEP [specs](broken-reference)
 
 ### Healthcare
 

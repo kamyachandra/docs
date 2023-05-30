@@ -20,6 +20,6 @@
 
 ### Technical Specs
 
-* [Index](specs/index.md)
+* [Index](broken-reference)
 * Payments
   * [QR Code](specs/payment/qr\_code/qr\_spec.md)
