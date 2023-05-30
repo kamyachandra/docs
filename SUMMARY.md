@@ -7,7 +7,7 @@
 * [DPI Thinking](notes/dpi/overview.md)
 * [DPI Architecture Principles](notes/dpi/terminology.md)
 * [Identity](technical-notes/identity/README.md)
-  * [Face Auth](notes/identity/face\_auth.md)
+  * [Face Authentication](technical-notes/identity/face-authentication.md)
 * [Mapper](notes/mapper/index.md)
 * [Data Sharing](technical-notes/data-sharing/README.md)
   * [Beneficiary Registries](notes/data\_sharing/beneficiary\_registries.md)
