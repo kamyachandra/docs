@@ -6,7 +6,7 @@
 
 ### Technical Notes
 
-* [Terminology](notes/data\_sharing/beneficiary\_registries.md)
+* [Terminology](broken-reference)
 * DPI Thinking
   * [Overview](notes/dpi/terminology.md)
   * [Design Principle](notes/dpi/design\_principles.md)

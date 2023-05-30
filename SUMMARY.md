@@ -8,9 +8,8 @@
 * [DPI Architecture Principles](notes/dpi/terminology.md)
 * [Identity](technical-notes/identity/README.md)
   * [Face Authentication](technical-notes/identity/face-authentication.md)
-* [Mapper](notes/mapper/index.md)
-* [Data Sharing](technical-notes/data-sharing/README.md)
-  * [Beneficiary Registries](notes/data\_sharing/beneficiary\_registries.md)
+* [Mapper](technical-notes/mapper.md)
+* [Data Sharing](technical-notes/data-sharing.md)
 
 ## Technical Specs
 
