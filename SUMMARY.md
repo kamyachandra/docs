@@ -13,6 +13,7 @@
 
 ## Technical Specs
 
-* [Specifications](technical-specs/specifications.md)
+* [Home](technical-specs/home.md)
 * [Payments](technical-specs/payments/README.md)
+  * [Micro ATM](technical-specs/payments/micro-atm.md)
   * [QR Code](technical-specs/payments/qr-code.md)
